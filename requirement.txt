@@ -1,0 +1,10 @@
+py -3.10 -m venv venv
+venv\Scripts\activate
+
+opencv-python==4.11.0.86
+numpy==1.24.4
+imutils==0.5.4
+pygame==2.6.1
+
+pip install dlib-19.22.99-cp310-cp310-win_amd64.whl
+
