@@ -8,3 +8,4 @@ pygame==2.6.1
 
 pip install dlib-19.22.99-cp310-cp310-win_amd64.whl
 
+https://github.com/AlphaLeporis99/Driver-drowsiness-detector.git
