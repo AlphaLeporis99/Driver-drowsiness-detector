@@ -1,0 +1,20 @@
+# Python version
+python==3.10.*
+Please download it from this link:
+https://www.python.org/downloads/release/python-3100/
+
+# Core libraries
+opencv-python==4.11.0.86
+numpy==1.24.4
+imutils==0.5.4
+pygame==2.6.1
+
+# Manual installation of dlib is recommended (wheel or source)
+
+# Download it from GitHub
+https://github.com/z-mahmud22/Dlib_Windows_Python3.x/blob/main/dlib-19.22.99-cp310-cp310-win_amd64.whl
+# If using prebuilt wheel (Windows):
+# pip install dlib-19.22.99-cp310-cp310-win_amd64.whl
+
+# Or if building from source (requires cmake and Visual Studio):
+cmake==4.0.3
